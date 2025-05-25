@@ -104,8 +104,7 @@ Additionally, **fence** instructions force all pending writes in the store buffe
 
 In interactive mode, each thread's state also includes its **memory view**, displaying the contents of its store buffer.
 
-![image](https://github.com/user-attachments/assets/d304f4ca-1516-4a29-87ba-8a1aa76c9434)
-
+![image](https://github.com/user-attachments/assets/b7b2cd41-f877-4983-97ef-734503b0e987)
 
 ### Partial Store Order (PSO)
 
